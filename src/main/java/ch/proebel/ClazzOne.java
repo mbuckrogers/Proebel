@@ -17,4 +17,7 @@ public class ClazzOne {
 		int m = -1;
 	}
 	
+	public int kkk() {
+		return 3;
+	}
 }
