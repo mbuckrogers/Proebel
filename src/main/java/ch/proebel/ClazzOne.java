@@ -1,5 +1,6 @@
 package ch.proebel;
 
+
 public class ClazzOne {
 
 	public static void main(String[] args) {
@@ -7,6 +8,10 @@ public class ClazzOne {
 		int a = 5;
 		int b = 10;
 		System.out.println("Hello");
+	}
+	
+	private void ooops() {
+		int m = -1;
 	}
 	
 }
