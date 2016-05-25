@@ -8,5 +8,9 @@ public class ClazzTwo {
 		int k = 34;
 
 	}
+	
+	private int yyy() {
+		return 4;
+	}
 
 }
