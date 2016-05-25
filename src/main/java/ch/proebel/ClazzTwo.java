@@ -9,4 +9,7 @@ public class ClazzTwo {
 
 	}
 
+	private void xxx() {
+		int b = 10;
+	}
 }
