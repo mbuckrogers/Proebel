@@ -9,7 +9,7 @@ public class ClazzTwo {
 
 	}
 	
-	private int yyy() {
+	private int ssss() {
 		return 4;
 	}
 
