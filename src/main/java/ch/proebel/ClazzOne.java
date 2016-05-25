@@ -13,8 +13,4 @@ public class ClazzOne {
 		return 4;
 	}
 
-
-	private void xxx() {
-		int b = 10;
-	}
 }
