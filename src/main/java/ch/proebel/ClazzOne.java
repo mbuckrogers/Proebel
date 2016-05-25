@@ -13,7 +13,7 @@ public class ClazzOne {
 		int a = 0;
 		double d = 0.0;
 	}
-	private void hellfire2() {
+	private void hellfire3() {
 		int m = -12;
 	}
 	
