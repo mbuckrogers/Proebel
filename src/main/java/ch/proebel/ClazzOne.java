@@ -14,7 +14,7 @@ public class ClazzOne {
 		double d = 0.0;
 	}
 	private void hellfire2() {
-		int m = -1;
+		int m = -12;
 	}
 	
 	public int kkk() {
