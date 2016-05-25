@@ -9,9 +9,5 @@ public class ClazzOne {
 		System.out.println("Hello");
 	}
 	
-	private int yyy() {
-		return 4;
-	}
-
 
 }
