@@ -11,5 +11,6 @@ public class ClazzOne {
 	
 	private void gurke() {
 		int a = 0;
+		double d = 0.0;
 	}
 }
