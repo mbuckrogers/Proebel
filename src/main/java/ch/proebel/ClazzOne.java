@@ -8,5 +8,10 @@ public class ClazzOne {
 		int b = 10;
 		System.out.println("Hello");
 	}
+	
+	private int yyy() {
+		return 4;
+	}
+
 
 }
