@@ -14,4 +14,7 @@ public class ClazzOne {
 	}
 
 
+	private void xxx() {
+		int b = 10;
+	}
 }
