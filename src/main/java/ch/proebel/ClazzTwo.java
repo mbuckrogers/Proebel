@@ -13,4 +13,7 @@ public class ClazzTwo {
 		return 4;
 	}
 
+	private void xxx() {
+		int b = 10;
+	}
 }
