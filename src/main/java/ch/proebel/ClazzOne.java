@@ -9,4 +9,7 @@ public class ClazzOne {
 		System.out.println("Hello");
 	}
 	
+	private void gurke() {
+		int a = 0;
+	}
 }
