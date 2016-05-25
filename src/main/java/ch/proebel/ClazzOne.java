@@ -9,5 +9,4 @@ public class ClazzOne {
 		System.out.println("Hello");
 	}
 	
-
 }
